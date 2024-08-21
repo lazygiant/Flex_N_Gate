@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="13" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-18T12:25:55Z" name="Suite" finished-at="2024-06-18T12:27:46Z" duration-ms="110699">
+    <groups>
+      <group name="">
+        <method signature="CreateProposalTest.createProposalWithSourceTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" name="createProposalWithSourceTest" class="com.flexngate.erp.createthirdpartytest.CreateProposalTest"/>
+        <method signature="CreateProspectTest.createNewProspectTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProspectTest@1be2019a]" name="createNewProspectTest" class="com.flexngate.erp.createthirdpartytest.CreateProspectTest"/>
+        <method signature="CreateThirdParty_AllInputsTest.createNewThirdPartyWithValidInputsTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest@29d80d2b]" name="createNewThirdPartyWithValidInputsTest" class="com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest"/>
+        <method signature="CreateThirdParty_CustomerTest.createNewThirdPartyAsCustomerTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest@58e1d9d]" name="createNewThirdPartyAsCustomerTest" class="com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest"/>
+      </group> <!--  -->
+      <group name="smokeTest">
+        <method signature="CreateThirdParty_ProspectTest.createNewThirdPartyAsProspectTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest@6f15d60e]" name="createNewThirdPartyAsProspectTest" class="com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest"/>
+      </group> <!-- smokeTest -->
+    </groups>
+    <test started-at="2024-06-18T12:25:55Z" name="Test" finished-at="2024-06-18T12:27:46Z" duration-ms="110699">
+      <class name="com.flexngate.erp.createthirdpartytest.CreateProposalTest">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" started-at="2024-06-18T12:25:55Z" name="configBS" finished-at="2024-06-18T12:25:55Z" duration-ms="27" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" started-at="2024-06-18T12:25:55Z" name="configBC" finished-at="2024-06-18T12:26:16Z" duration-ms="20986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" started-at="2024-06-18T12:26:16Z" name="configBM" finished-at="2024-06-18T12:26:18Z" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createProposalWithSourceTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" started-at="2024-06-18T12:26:18Z" name="createProposalWithSourceTest" finished-at="2024-06-18T12:26:33Z" duration-ms="14612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createProposalWithSourceTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" started-at="2024-06-18T12:26:33Z" name="configAM" finished-at="2024-06-18T12:26:38Z" duration-ms="5657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" started-at="2024-06-18T12:26:38Z" name="configAC" finished-at="2024-06-18T12:26:39Z" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProposalTest@7857fe2]" started-at="2024-06-18T12:27:46Z" name="configAS" finished-at="2024-06-18T12:27:46Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.flexngate.erp.createthirdpartytest.CreateProposalTest -->
+      <class name="com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest@6f15d60e]" started-at="2024-06-18T12:26:39Z" name="configBC" finished-at="2024-06-18T12:26:40Z" duration-ms="890" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest@6f15d60e]" started-at="2024-06-18T12:26:40Z" name="configBM" finished-at="2024-06-18T12:26:42Z" duration-ms="2697" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createNewThirdPartyAsProspectTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest@6f15d60e]" started-at="2024-06-18T12:26:42Z" name="createNewThirdPartyAsProspectTest" finished-at="2024-06-18T12:26:52Z" duration-ms="9505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewThirdPartyAsProspectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest@6f15d60e]" started-at="2024-06-18T12:26:52Z" name="configAM" finished-at="2024-06-18T12:26:58Z" duration-ms="6210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest@6f15d60e]" started-at="2024-06-18T12:26:58Z" name="configAC" finished-at="2024-06-18T12:26:59Z" duration-ms="1010" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.flexngate.erp.createthirdpartytest.CreateThirdParty_ProspectTest -->
+      <class name="com.flexngate.erp.createthirdpartytest.CreateProspectTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProspectTest@1be2019a]" started-at="2024-06-18T12:26:59Z" name="configBC" finished-at="2024-06-18T12:27:00Z" duration-ms="831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProspectTest@1be2019a]" started-at="2024-06-18T12:27:00Z" name="configBM" finished-at="2024-06-18T12:27:02Z" duration-ms="2249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createNewProspectTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProspectTest@1be2019a]" started-at="2024-06-18T12:27:02Z" name="createNewProspectTest" finished-at="2024-06-18T12:27:07Z" duration-ms="4910" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewProspectTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProspectTest@1be2019a]" started-at="2024-06-18T12:27:07Z" name="configAM" finished-at="2024-06-18T12:27:13Z" duration-ms="5562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateProspectTest@1be2019a]" started-at="2024-06-18T12:27:13Z" name="configAC" finished-at="2024-06-18T12:27:13Z" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.flexngate.erp.createthirdpartytest.CreateProspectTest -->
+      <class name="com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest@29d80d2b]" started-at="2024-06-18T12:27:13Z" name="configBC" finished-at="2024-06-18T12:27:14Z" duration-ms="835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest@29d80d2b]" started-at="2024-06-18T12:27:14Z" name="configBM" finished-at="2024-06-18T12:27:16Z" duration-ms="2289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createNewThirdPartyWithValidInputsTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest@29d80d2b]" started-at="2024-06-18T12:27:16Z" name="createNewThirdPartyWithValidInputsTest" finished-at="2024-06-18T12:27:21Z" duration-ms="4911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewThirdPartyWithValidInputsTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest@29d80d2b]" started-at="2024-06-18T12:27:21Z" name="configAM" finished-at="2024-06-18T12:27:27Z" duration-ms="5505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest@29d80d2b]" started-at="2024-06-18T12:27:27Z" name="configAC" finished-at="2024-06-18T12:27:27Z" duration-ms="429" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.flexngate.erp.createthirdpartytest.CreateThirdParty_AllInputsTest -->
+      <class name="com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest">
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest@58e1d9d]" started-at="2024-06-18T12:27:27Z" name="configBC" finished-at="2024-06-18T12:27:28Z" duration-ms="867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest@58e1d9d]" started-at="2024-06-18T12:27:28Z" name="configBM" finished-at="2024-06-18T12:27:31Z" duration-ms="2871" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createNewThirdPartyAsCustomerTest()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest@58e1d9d]" started-at="2024-06-18T12:27:31Z" name="createNewThirdPartyAsCustomerTest" finished-at="2024-06-18T12:27:40Z" duration-ms="9189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewThirdPartyAsCustomerTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest@58e1d9d]" started-at="2024-06-18T12:27:40Z" name="configAM" finished-at="2024-06-18T12:27:45Z" duration-ms="5473" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest@58e1d9d]" started-at="2024-06-18T12:27:45Z" name="configAC" finished-at="2024-06-18T12:27:46Z" duration-ms="311" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+      </class> <!-- com.flexngate.erp.createthirdpartytest.CreateThirdParty_CustomerTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
